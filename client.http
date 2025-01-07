@@ -1,0 +1,2 @@
+GET https://api.fda.gov/drug/drugsfda.json?search=products.brand_name="Aspirin"&limit=10
+content-type: application/json
